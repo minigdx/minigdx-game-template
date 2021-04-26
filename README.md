@@ -10,3 +10,7 @@ The game will be configured for:
 
 Get [more informations](https://github.com/minigdx) on miniGDX.
 
+## Github Actions
+
+This template contains [github actions](https://docs.github.com/en/actions) that generate 
+the bundles of your game for you.
